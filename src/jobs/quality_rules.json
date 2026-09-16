@@ -1,0 +1,10 @@
+{
+  "sensor_aula_01": [
+    "event_id IS NOT NULL",
+    "timestamp != ''",
+    "temperature BETWEEN -20 AND 80",
+    "humidity BETWEEN 0 AND 100",
+    "co2 > 0",
+    "battery BETWEEN 0 AND 100"
+  ]
+}

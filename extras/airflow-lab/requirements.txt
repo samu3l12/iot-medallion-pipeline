@@ -1,0 +1,6 @@
+papermill==2.6.0
+requests==2.31.0
+jupyter==1.0.0
+jupyterlab==4.0.12
+ipykernel==6.29.0
+nbformat>=5.0.0
